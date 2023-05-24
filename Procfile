@@ -1,1 +1,1 @@
-worker: bash drago
+worker: bash HuRe
